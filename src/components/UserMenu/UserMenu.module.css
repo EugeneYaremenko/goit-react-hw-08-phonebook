@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  background-color: aliceblue;
+}
+
+.avatar {
+  margin-right: 4px;
+}
+.name {
+  display: flex;
+  font-weight: 700;
+  margin-right: 12px;
+}

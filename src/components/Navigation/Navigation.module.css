@@ -1,0 +1,23 @@
+.nav a {
+  padding: 12px;
+  color: #2a363b;
+  text-decoration: none;
+  font-weight: 700;
+  color: #2a363b;
+}
+
+.nav a:focus {
+  color: #ecdbdd;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  color: #2a363b;
+}
+
+.activeLink {
+  color: #ecdbdd;
+}
